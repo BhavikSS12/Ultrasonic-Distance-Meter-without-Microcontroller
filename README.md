@@ -1,2 +1,3 @@
 # Ultrasonic Distance Meter
-Distance meter which give real time distance without Microcontroller
+Distance meter which give real time distance measurement
+without Microcontroller
